@@ -1,0 +1,3 @@
+[submodule "doctors-portal"]
+	path = doctors-portal
+	url = https://github.com/Ronnie038/doctors-portal
